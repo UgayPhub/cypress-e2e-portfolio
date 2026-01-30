@@ -1,0 +1,7 @@
+{
+  "name": "cypress-e2e-portfolio",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
